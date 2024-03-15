@@ -1,4 +1,6 @@
 ﻿## // --- A. YES или YES? : 800 ---
+{ Решение через ReadString и List<string> }
+
 var res: List<string> = new List<string>;
 var flag := True;
 
